@@ -9,7 +9,7 @@ Diese Übung soll ohne Maus durchgeführt werden. Du schaffst das!
 - Um an den **Anfang der Zeile** zu springen benutze die Taste <kbd>Pos1</kbd>
 - Um an den **Anfang der gesamten Datei** zu springen benutze die Taste <kbd>Strg</kbd> + <kbd>Pos1</kbd>
 - Um an das **Ende der Zeile** zu springen benutze die Taste <kbd>Ende</kbd>
-- Um an den **Anfang der gesamten Datei** zu springen benutze die Taste <kbd>Strg</kbd> + <kbd>Ende</kbd>
+- Um an das **Ende der gesamten Datei** zu springen benutze die Taste <kbd>Strg</kbd> + <kbd>Ende</kbd>
 
 ## Text markieren
 

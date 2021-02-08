@@ -3,7 +3,7 @@
 `# Einführung in Markdown`
 
 ## Mit Markdown lassen sich Texte schnell erstellen!
-`## Überschrift 2. Ordnung`
+`## Mit Markdown lassen sich Texte schnell erstellen!`
 
 Dies ist ein normaler Absatztext. Er ergibt an sich überhaupt keinen Sinn. Er soll nur demonstrieren, wie man einen Absatz schreibt.
 
