@@ -1,6 +1,4 @@
-# Tastaturübungen für ReDI Digital Heroes
-
-Mit diesem Repository können folgende Lehrinhalte geübt werden:
+# ICH WILL DAS HIER ÄNDERN!!!!
 
 - Grundlegende Verwendung des Versionskontrollsystems Git (Fork, Branch, Commit, Push)
 - Die Markdown-Sprache
