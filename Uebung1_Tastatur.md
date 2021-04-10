@@ -9,7 +9,7 @@
 Löschen
 
 #### Entferne diesen Satz:
-Lösch mich!
+Lösch mich!!
 
 #### Tausche im folgenden Satz den Platzhalter durch dein Lieblingstier:
 Mein Lieblingstier ist <Tier>!
