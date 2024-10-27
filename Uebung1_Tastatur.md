@@ -3,16 +3,16 @@
 ### Einfache Korrekturen
 
 #### Korrigiere diese Mathe-Aufgabe:
-3 x 3 = 9
+3 x 3 = 4
 
 #### Entferne dieses Wort:
-
+Löschen
 
 #### Entferne diesen Satz:
-
+Lösch mich!
 
 #### Tausche im folgenden Satz den Platzhalter durch dein Lieblingstier:
-Mein Lieblingstier ist Katze!
+Mein Lieblingstier ist <Tier>!
 
 ### Blockkorrekturen
 
@@ -20,10 +20,11 @@ Mein Lieblingstier ist Katze!
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
 
 #### Setze den Satz in die richtige Reihenfolge:
 
-Dieser Satz ergibt keinen Sinn    
+Sinn keinen Satz ergibt Dieser 
 
 
 
